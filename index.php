@@ -1,6 +1,6 @@
 <?php
 
-namespace mattexample;
+namespace matt;
 
 error_reporting(0);
 require_once("Utils/Functions.php");
